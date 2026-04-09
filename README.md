@@ -14,9 +14,6 @@ A PowerApps-based digital authorization and e-ID management system that helps ad
 ![Project Thumbnail](./assets/profile.png)
 
 ---
-Here’s an updated version tailored to your digital authorization and e-ID system:
-
----
 
 ## ⚙️ What’s Under the Hood
 
